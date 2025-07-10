@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/serializacao-e-desserializacao-xml-em-delphi/
+  https://www.codedelphi.com/2024/09/serializacao-e-desserializacao-xml-em-delphi.html
